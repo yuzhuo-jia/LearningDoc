@@ -7,4 +7,5 @@ JS面向对象:<br/>http://www.cnblogs.com/platycoden/p/5206010.html<br/>
 SAP Dokumentation:<br/>https://help.sap.com/fiori_bs2013/helpdata/en/27/ce0e4987cd426f8fa3e60836316428/frameset.htm<br/>
 WebIDE:<br/>
 https://blog.csdn.net/stone0823/article/details/70339694<br/>
-https://account.hanatrial.ondemand.com/#/home/welcome
+https://account.hanatrial.ondemand.com/#/home/welcome<br/>
+https://tools.hana.ondemand.com/#sapui5
