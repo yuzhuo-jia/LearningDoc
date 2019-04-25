@@ -9,4 +9,5 @@ WebIDE:<br/>
 https://blog.csdn.net/stone0823/article/details/70339694<br/>
 https://account.hanatrial.ondemand.com/#/home/welcome<br/>
 https://tools.hana.ondemand.com/#sapui5<br/>
-论坛:<br/>http://www.sapchina.net
+论坛:<br/>http://www.sapchina.net<br/>
+https://www.ut163.com/fiori_sap-9999-1.html
