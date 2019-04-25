@@ -8,4 +8,5 @@ SAP Dokumentation:<br/>https://help.sap.com/fiori_bs2013/helpdata/en/27/ce0e4987
 WebIDE:<br/>
 https://blog.csdn.net/stone0823/article/details/70339694<br/>
 https://account.hanatrial.ondemand.com/#/home/welcome<br/>
-https://tools.hana.ondemand.com/#sapui5
+https://tools.hana.ondemand.com/#sapui5<br/>
+论坛:<br/>http://www.sapchina.net
