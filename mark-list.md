@@ -7,6 +7,7 @@ https://axyt.net/tag/sap-fiori-kai-fa-ru-men/<br/>
 <br/>JS面向对象:<br/>http://www.cnblogs.com/platycoden/p/5206010.html<br/>
 <br/>SAP Dokumentation:<br/>https://help.sap.com/fiori_bs2013/helpdata/en/27/ce0e4987cd426f8fa3e60836316428/frameset.htm<br/>
 https://blogs.sap.com/2017/07/06/customization-of-sap-fiori-logon-page/<br/>
+https://blogs.sap.com/2017/01/28/how-to-create-custom-tile-types-for-onpremise-fiori-launchpad/<br/>
 <br/>WebIDE:<br/>
 https://blog.csdn.net/stone0823/article/details/70339694<br/>
 https://account.hanatrial.ondemand.com/#/home/welcome<br/>
